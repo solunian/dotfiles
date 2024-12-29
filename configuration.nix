@@ -92,9 +92,17 @@
       gcc14
       gnumake
       rustup
+      python313
       uv
+      nodejs_23
       bun
+      go
+      kotlin
+      lua
       neofetch
+      neovim
+      yt-dlp
+      ffmpeg
     ];
   };
 
@@ -127,7 +135,7 @@
     hyprcursor
     nwg-look
     catppuccin-gtk
-    gnome3.gnome-tweaks
+    gnome-tweaks
     waybar
     xdg-desktop-portal-hyprland
     xdg-desktop-portal-gtk
