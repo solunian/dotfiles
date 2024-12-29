@@ -1,0 +1,8 @@
+[user]
+	name = Daniel Cui
+	email = solunian@gmail.com
+	signingkey = <insert-gpg-pub-key>
+[commit]
+	gpgsign = true
+[tag]
+	gpgSign = true

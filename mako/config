@@ -1,0 +1,29 @@
+sort=-time
+layer=overlay
+
+default-timeout=5000
+
+# 100 * 1.618 * 2, perfect ratio nonsense from me
+width=324
+height=100
+
+# mauve from latte
+background-color=#8839efdd
+
+border-size=2
+border-color=#8839efaa
+border-radius=10
+margin=12
+padding=7
+
+progress-color=over #ea76cb
+
+#anchor=top-center
+font=Jetbrains Mono 10
+
+[mode=do-not-disturb]
+invisible=1
+
+# makoctl mode -a do-not-disturb to hide notifications
+# makoctl mode -r do-not-disturb to show notifications again
+
